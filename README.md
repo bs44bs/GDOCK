@@ -12,4 +12,4 @@
 3.以上修改完后push一下,即可自动编译固件成
 
 部分脚本内容参考以下项目特此感谢:
-https://github.com/P3TERX/Actions-OpenWrt/
+https://github.com/P3TERX/Actions-OpenWrt/11
